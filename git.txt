@@ -10,3 +10,17 @@ git commit
 
 gti push origin main  ->to upload local repo to remote repo
 
+
+git checkout -b <branch name > used to creat new branch and switch to that branch
+
+git branch give list of branch
+
+
+----for merger-------
+gti diff <branch name>
+
+git merge <branch name>
+
+2 ways to merge 
+1) by git branch mergr < br name>
+2) by github pull request
