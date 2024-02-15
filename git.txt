@@ -1,0 +1,12 @@
+git add . // used to stagged changes not to commit on branch 
+//stagged mean on local - updates are saved
+
+git status //gives 4 types of sttus   --> dikhata hai kya updates hue hai file mai
+1)untracked    
+2)modified 3)staged 4)unmodified
+
+
+git commit 
+
+gti push origin main  ->to upload local repo to remote repo
+
